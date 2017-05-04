@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Vizit Password Generator</string>
+    <string name="buttonNext">Next</string>
+    <string name="defaultCodeFieldValue">code</string>
+    <string name="labelCounter">счетчик:</string>
+    <string name="labelLog">лог:</string>
+    <string name="labelSmallManual">Нажмите [#], затем [999], будет два пика, а на экране [PS_]
+        Вводим пароль, если все норм, то на экране [S_]
+    </string>
+    <string name="buttonReset">reset</string>
+    <string name="resetButtonConfirmationText">Перебранные пароли будут забыты. Продолжить?</string>
+    <string name="textYes">Да</string>
+    <string name="textNo">Нет</string>
+    <string name="confirmText">Подтверждение</string>
+</resources>
